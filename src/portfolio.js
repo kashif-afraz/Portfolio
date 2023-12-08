@@ -161,7 +161,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/landingPage.jpg"),
+      image: require("./assets/images/landingtemplate.jpg"),
       projectName: "Company Landing Page",
       projectDesc: "Use container, row, column class of BootStrap. Also use icons from 'FontAwesome' website",
       footerLink: [

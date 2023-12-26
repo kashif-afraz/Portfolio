@@ -121,7 +121,7 @@ const workExperiences = {
   experience: [
     {
       role: "ReactJs Intern",
-      company: "Ideo Fuzion",
+      company: "Ideofuzion",
       companylogo: require("./assets/images/ideofuzion.png"),
       date: "Sep 2023 – Present",
       descBullets: [
@@ -170,7 +170,18 @@ const bigProjects = {
           url: "https://bootstrap-practice-page.netlify.app/"
         }
       ]
-    }
+    },
+    {
+      image: require("./assets/images/Gaming website.png"),
+      projectName: "Company Landing Page",
+      projectDesc: "Use ReactJs and BootStrap also use transition transforms etc.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://gaming-website-internship-task.vercel.app/"
+        }
+      ]
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
